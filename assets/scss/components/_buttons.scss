@@ -1,0 +1,18 @@
+@use '../abstracts/variables' as v;
+
+button, .btn {
+    background-color: transparent;
+    color: v.$outFox_white;
+    padding-block: none;
+    padding-inline: none;
+    padding: v.$spaceThin v.$spaceThick;
+    border: v.$spaceUltraThin solid v.$outFox_green;
+    text-transform: lowercase;
+    text-decoration: none;
+    text-align: center;
+    transition: v.$tranSimple;
+    &:hover {
+        border-color: v.$outFox_white;
+        color: v.$outFox_green;
+    }
+}
