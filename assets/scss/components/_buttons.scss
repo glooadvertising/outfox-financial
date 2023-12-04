@@ -11,6 +11,7 @@ button, .btn {
     text-decoration: none;
     text-align: center;
     transition: v.$tranSimple;
+    cursor: pointer;
     &:hover {
         border-color: v.$outFox_white;
         color: v.$outFox_green;

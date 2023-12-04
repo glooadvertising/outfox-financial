@@ -157,6 +157,7 @@ button, .btn {
   text-decoration: none;
   text-align: center;
   transition: 0.3s ease-out all;
+  cursor: pointer;
 }
 button:hover, .btn:hover {
   border-color: #ffffff;

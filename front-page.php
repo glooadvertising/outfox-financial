@@ -10,7 +10,7 @@
             <a href="#contact-us" class="btn">
                 Contact us
             </a>
-            <a href="#" class="btn">
+            <a href="https://outfoxfinancial.as.me/" target="_blank" class="btn">
                 book appointment
             </a>
             </span>
