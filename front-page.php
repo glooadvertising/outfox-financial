@@ -10,7 +10,7 @@
             <a href="#contact-us" class="btn">
                 Contact us
             </a>
-            <a href="https://outfoxfinancial.as.me/" target="_blank" class="btn">
+            <a href="https://app.acuityscheduling.com/schedule.php?owner=30871738&appointmentType=55697530&notembedded=1" target="_blank" class="btn">
                 book appointment
             </a>
             </span>
