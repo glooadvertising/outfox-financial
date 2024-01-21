@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php bloginfo('tittle'); ?> <?php bloginfo( 'description' ); ?></title>
     <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/icons/fox.svg">
+    <meta http-equiv="content-language" content="en" />
+    <meta name="google" content="notranslate" />
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
