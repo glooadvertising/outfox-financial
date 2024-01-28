@@ -298,13 +298,13 @@ button:hover, .btn:hover {
     width: 100%;
   }
 }
-.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap {
+.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap {
   width: 100%;
 }
-.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form {
+.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form {
   width: 100%;
 }
-.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form input, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form textarea {
+.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form input, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form textarea, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form input, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form textarea {
   background-color: transparent;
   border-radius: 0;
   border: none;
@@ -313,13 +313,13 @@ button:hover, .btn:hover {
   padding-right: 0;
   color: #ffffff;
 }
-.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form input::-moz-placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form textarea::-moz-placeholder {
+.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form input::-moz-placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form textarea::-moz-placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form input::-moz-placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form textarea::-moz-placeholder {
   color: #58595b;
 }
-.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form input::placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form textarea::placeholder {
+.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form input::placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form textarea::placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form input::placeholder, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form textarea::placeholder {
   color: #58595b;
 }
-.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form .error.text-danger {
+.contact .container .col-one .fluentform.ff-default.fluentform_wrapper_1.ffs_default_wrap form .error.text-danger, .contact .container .col-one .fluentform.ff-default.fluentform_wrapper_5.ffs_default_wrap form .error.text-danger {
   color: rgb(215, 223, 35);
 }
 .contact .container .col-two {
