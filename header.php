@@ -7,6 +7,7 @@
     <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/icons/fox.svg">
     <meta http-equiv="content-language" content="en" />
     <meta name="google" content="notranslate" />
+    <meta name="google-site-verification" content="bdt6v24j8lYXomIkX9xX59K0IPcoTZwHTZtLnudt0-0" />
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
